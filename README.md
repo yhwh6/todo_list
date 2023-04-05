@@ -1,12 +1,12 @@
-# Restaurant Project
-Django Project for managing Cooks, Dishes & Dish Types
+# ToDo list project
+Django project for managing tasks
 
 ## Installation
 Python3 must be already installed
 
 ```shell
-git clone 
-cd restaurant_service
+git clone https://github.com/yhwh6/todo_list.git
+cd todo_list
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements 
