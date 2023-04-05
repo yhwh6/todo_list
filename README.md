@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ToDo list project
 Django project for managing tasks
 
@@ -13,3 +14,7 @@ pip install -r requirements
 rename .env.sample => .env and place your django key into this file
 python manage.py runserver
 ```
+=======
+# todo_list
+Django practice todo list
+>>>>>>> origin/main
