@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ToDo list project
 Django project for managing tasks
 
@@ -17,4 +16,3 @@ python manage.py runserver
 =======
 # todo_list
 Django practice todo list
->>>>>>> origin/main
